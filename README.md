@@ -1,8 +1,3 @@
-GitHub broke the structure because code blocks were never closed with closing triple backticks (```), causing GitHub to view the rest of your text as one long code box. Additionally, tables on GitHub require vertical pipe characters (`|`) to format properly.
-
-Select everything in your `README.md` file in Notepad, delete it, and paste this **exact** raw text:
-
-```markdown
 # Real-Time Face Recognition Turnstile System with Anti-Spoofing
 
 An end-to-end, high-performance real-time face recognition turnstile pipeline featuring passive anti-spoofing and object tracking optimized for 30+ FPS execution.
