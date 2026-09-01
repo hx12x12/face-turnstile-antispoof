@@ -1,0 +1,19 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Model checkpoints & databases
+models/*.pt
+models/*.pkl
+*.mp4
+
+# IDE / OS files
+.DS_Store
+.vscode/
+.idea/
